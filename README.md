@@ -15,11 +15,9 @@ I also enjoy sharing knowledge, building professional projects and continuously 
 
 # Find me around the web 🌎
 
-- Sharing projects on GitHub 💻  
-  https://github.com/brmsouza
+- Sharing projects on [GitHub](https://github.com/brmsouza) 💻
 
-- Sharing my professional journey on LinkedIn 💼  
-  https://www.linkedin.com/in/bruno-souza-7b4b739a/
+- Sharing my professional journey on [LinkedIn](https://www.linkedin.com/in/bruno-souza-7b4b739a/) 💼
 
 - Working on data engineering, analytics and cloud projects 🚀
 
