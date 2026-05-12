@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Bruno 👋 💻
 
-<!--
-**brmsouza/brmsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/banner.png" alt="Bruno Souza Banner" width="100%" />
 
-Here are some ideas to get you started:
+I'm a data engineer focused on building scalable data pipelines, analytics layers and professional data platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with Databricks, PySpark, SQL, Python, Delta Lake and modern data engineering practices.
+
+## Find me around the web 🌎
+
+- Building projects on [GitHub](https://github.com/brmsouza) 💻
+- Sharing my professional journey on [LinkedIn](https://www.linkedin.com/in/bruno-souza-7b4b739a/) 💼
+- Working on data engineering, analytics and cloud projects 🚀
