@@ -1,13 +1,27 @@
 # Hi, I'm Bruno 👋 💻
 
-<img src="./assets/banner.png" alt="Bruno Souza Banner" width="100%" />
+<p align="center">
+  <img src="./assets/banner.png" alt="Bruno Souza Banner" width="100%">
+</p>
 
-I'm a data engineer focused on building scalable data pipelines, analytics layers and professional data platforms.
+I'm a data engineer passionate about building scalable data platforms, analytics solutions and modern data architectures.
 
-I work with Databricks, PySpark, SQL, Python, Delta Lake and modern data engineering practices.
+Some technologies I enjoy working with include Databricks, PySpark, SQL, Python, Oracle, PostgreSQL, Delta Lake, Azure and AWS. My focus is on designing reliable enterprise-grade data pipelines and transforming raw data into meaningful analytical insights.
 
-## Find me around the web 🌎
+I also enjoy sharing knowledge, building professional projects and continuously evolving in modern data engineering and cloud technologies.
 
-- Building projects on [GitHub](https://github.com/brmsouza) 💻
-- Sharing my professional journey on [LinkedIn](https://www.linkedin.com/in/bruno-souza-7b4b739a/) 💼
+---
+
+# Find me around the web 🌎
+
+- Sharing projects on GitHub 💻  
+  https://github.com/brmsouza
+
+- Sharing my professional journey on LinkedIn 💼  
+  https://www.linkedin.com/in/bruno-souza-7b4b739a/
+
 - Working on data engineering, analytics and cloud projects 🚀
+
+<p align="right">
+  <img src="./assets/mini-avatar.png" width="180px">
+</p>
